@@ -1,0 +1,8 @@
+1. You can trigger the world changing event by clicking the mouse anywhere on the screen. Images of Fire will appear
+   when you click the mouse.
+
+2. A Dragon will emerge from the fires, attack the MinerNotFulls, and turn them into Knights.
+
+3. The Knights will then chase after and attack the Dragons.
+
+4. Once caught, the Dragons will then turn into Veins.
