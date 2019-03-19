@@ -1,0 +1,7 @@
+/*
+At first, I moved every method from Functions to a class based on the function name and/or the first parameter of
+the method. Many methods were moved to Entity for this reason, especially execute*Activity and nextPosition*. After
+our discussion in Lab, methods that seemed to be doing arithmetic were placed in Viewport and Point, and we concluded
+all of the parse* should be placed in Functions. I originally had many of the "image" functions in ImageStore, but
+after discussion with the TA and we concluded it was best to keep them in Functions.
+*/
